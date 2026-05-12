@@ -1,6 +1,6 @@
 <div align="center">
 
-# Password Manager
+# VaultX5
 
 ### Secure Password Storage System
 
